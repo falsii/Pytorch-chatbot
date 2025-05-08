@@ -5,79 +5,151 @@
       "patterns": [
         "Hi",
         "Hey",
+        "hello",
         "How are you",
         "Is anyone there?",
         "Hello",
-        "Good day"
+        "Good day",
+        "Yo",
+        "What's up?",
+        "Hi there",
+        "Good morning"
       ],
       "responses": [
-        "Hey :-)",
-        "Hello, thanks for visiting",
-        "Hi there, what can I do for you?",
-        "Hi there, how can I help?"
+        "Hey there!",
+        "Hello! How can I assist you today?",
+        "Hi! What's on your mind?",
+        "Greetings! How can I help?",
+        "Yo! What's good?",
+        "Good morning to you too!",
+        "Hey, great to see you!"
       ]
     },
     {
       "tag": "goodbye",
-      "patterns": ["Bye", "See you later", "Goodbye"],
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye",
+        "Take care",
+        "Catch you later",
+        "I'm off",
+        "Later"
+      ],
       "responses": [
-        "See you later, thanks for visiting",
-        "Have a nice day",
-        "Bye! Come back again soon."
+        "Catch you later!",
+        "Have a great day!",
+        "Bye for now!",
+        "Take care!",
+        "See you soon!",
+        "Later, friend!",
+        "Till next time!"
       ]
     },
     {
       "tag": "thanks",
-      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
-      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks a lot!",
+        "Appreciate it",
+        "Thank you so much",
+        "You're a lifesaver"
+      ],
+      "responses": [
+        "You're welcome!",
+        "No problem!",
+        "Glad I could help!",
+        "Anytime!",
+        "My pleasure!",
+        "Happy to assist!",
+        "You're too kind!"
+      ]
     },
     {
       "tag": "items",
       "patterns": [
-        "Which items do you have?",
-        "What kinds of items are there?",
-        "What do you sell?"
+        "What do you sell?",
+        "What items do you have?",
+        "What kinds of products are there?",
+        "What's in stock?",
+        "What can I buy here?",
+        "Tell me about your products",
+        "Do you have coffee?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "We offer a variety of coffee and tea products.",
+        "Our shop sells premium coffee and tea.",
+        "We have a selection of fine coffees and teas.",
+        "Check out our range of gourmet coffee and tea!",
+        "We stock high-quality coffee beans and loose-leaf teas.",
+        "From espresso to herbal teas, we've got it all!",
+        "Our coffee and tea are sourced from the best growers."
       ]
     },
     {
       "tag": "payments",
       "patterns": [
-        "Do you take credit cards?",
-        "Do you accept Mastercard?",
-        "Can I pay with Paypal?",
-        "Are you cash only?"
+        "Do you accept credit cards?",
+        "Can I pay with Mastercard?",
+        "Do you take Paypal?",
+        "Are you cash only?",
+        "What payment methods do you accept?",
+        "Can I use a debit card?",
+        "Do you take Apple Pay?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "We accept VISA, Mastercard, and Paypal.",
+        "You can pay with major credit cards or Paypal.",
+        "We take VISA, Mastercard, debit cards, and Paypal.",
+        "Sorry, no cash only—use VISA, Mastercard, or Paypal!",
+        "Apple Pay, VISA, Mastercard, and Paypal are all good here.",
+        "We accept most major payment methods, including Paypal.",
+        "Pay with ease using credit, debit, or Paypal."
       ]
     },
     {
       "tag": "delivery",
       "patterns": [
-        "How long does delivery take?",
+        "How long for delivery?",
+        "When will my order arrive?",
         "How long does shipping take?",
-        "When do I get my delivery?"
+        "What are your delivery options?",
+        "Do you offer express shipping?",
+        "How soon can I get my order?",
+        "What's the delivery time?",
+        "Can you ship it fast?"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Delivery typically takes 2-4 business days.",
+        "Shipping usually takes 2-4 days.",
+        "We offer standard delivery (2-4 days) and express shipping (1-2 days).",
+        "Express shipping is available for delivery in 1-2 days.",
+        "Standard shipping takes 2-4 days, or choose express for 1-2 days.",
+        "Your order can arrive in 2-4 days with standard delivery.",
+        "Need it fast? Express shipping gets it to you in 1-2 days!"
       ]
     },
     {
       "tag": "funny",
       "patterns": [
         "Tell me a joke!",
-        "Tell me something funny!",
-        "Do you know a joke?"
+        "Say something funny!",
+        "Got any jokes?",
+        "Make me laugh",
+        "What's a good joke?",
+        "Tell me something hilarious",
+        "Do you have a funny story?"
       ],
       "responses": [
-        "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
-        "What did the buffalo say when his son left for college? Bison."
+        "Why did the coffee go to therapy? It had too many 'grounds' for anxiety!",
+        "What do you call a sad cup of coffee? A depresso!",
+        "Why did the tea go to school? To improve its steep-esteem!",
+        "What do you call a dinosaur that takes tea? A Sip-a-saurus!",
+        "Why was the coffee so good at singing? It was brewed with deCAF!",
+        "What did the coffee say to the tea? You're steeping on my turf!",
+        "Why don't coffees ever fight? They just brew peace!"
       ]
     }
   ]
